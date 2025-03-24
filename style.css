@@ -1,0 +1,15 @@
+*{
+    background-color: #4d4d4d;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: black;
+    color:white;
+    margin: 0 5px;
+}
